@@ -1,6 +1,6 @@
  DRUM KIT   :: <br>
  **Link to the video**<br>
- https://drive.google.com/file/d/16bqMCRlu0h7XrBZXlpD49tnjXmA8ZbmB/view?usp=sharing
+ https://drive.google.com/file/d/16bqMCRlu0h7XrBZXlpD49tnjXmA8ZbmB/view?usp=sharing<br> <br>
  Hey viewers welcome all!
  
  In this Project i have made a drum kit which includes the keys that need to be pressed to play one of drum (part) sound.
